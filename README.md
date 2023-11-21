@@ -29,7 +29,7 @@ This task required that the source code follow a logical structure, independent 
 
 ## Deployed Application
 
-https://jayabaldwin.github.io/module-01-challenge/index.html
+View deployed application [here](https://jayabaldwin.github.io/module-01-challenge/index.html)!
 
 ## License
 
