@@ -33,4 +33,4 @@ View deployed application [here](https://jayabaldwin.github.io/module-01-challen
 
 ## License
 
-This project is licensed under the [MIT License](assets/LICENSE).
+This project is licensed under the [MIT License](https://github.com/jayabaldwin/module-01-challenge/blob/main/LICENSE).
