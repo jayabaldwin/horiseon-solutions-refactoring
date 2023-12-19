@@ -1,4 +1,4 @@
-# Module-01 HTML, CSS, and Git: Code Refactor
+# Horiseon Social Solutions: Code Refactor
 
 ## Description
 This weeks challenge required the refactoring of code for marketing agency, Horiseon Social Solutions Services. The purpose of this project was to improve the codebase in order to meet accessibility standards and optimise the site for search engines (SEO). With the increasing demand for accessiblity, modifications to existing code are required to provide all users the ability to easily access and interact with websites.
